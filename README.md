@@ -13,7 +13,7 @@
   <img align="center" alt="KB-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="KB-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="KB" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_ilYUeFdj.png" width="100" height="100">
+
 </div>
   
 ##
