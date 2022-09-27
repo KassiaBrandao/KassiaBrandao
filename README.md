@@ -1,5 +1,4 @@
 ## Oiii! Eu sou a Kassia Brandão
-- 🌱 Estudando HTML5, CSS e javaScript
 - 📫 Contate-me no email: kassiambrandao@gmail.com
 - 😄 Pronouns: Ela/dela
 
